@@ -1,1 +1,2 @@
-/* Stylesheet by Buck E. Badger, 2022 */
+// Add all scripts to the JS folder
+
